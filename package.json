@@ -1,0 +1,35 @@
+{
+  "name": "ascii-anything",
+  "version": "1.0.0",
+  "description": "Ascii anything: Just type it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopno/ascii-anything.git"
+  },
+  "keywords": [
+    "ascii"
+  ],
+  "author": "Mikael Midtgaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lopno/ascii-anything/issues"
+  },
+  "homepage": "https://github.com/lopno/ascii-anything#readme",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "asciify-image": "^0.1.5",
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "google-images": "^2.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  }
+}
