@@ -2,7 +2,7 @@
 
 Ascii anything: Just type it!
 
-![Ascii anything demo](https://im5.ezgif.com/tmp/ezgif-5-57492239c20e.gif)
+![Ascii anything demo](https://i.imgur.com/GeRBrXC.gif)
 
 ## Usage
 
